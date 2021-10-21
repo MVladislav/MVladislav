@@ -1,4 +1,5 @@
 ### Hi there 👋
+☕ COFFEE is a HUG in a MUG ☕
 
 <!--
 **MVladislav/MVladislav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
