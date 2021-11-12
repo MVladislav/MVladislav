@@ -25,12 +25,20 @@
 
 ┌──┤ **Where you can find more about me** ├─────────•••
 
-[<img align="left" alt="Wh1teP0ny | HackTheBox" title="Wh1teP0ny | HackTheBox"  width="26px" src="./__data/../__docs/icons/HackTheBox.svg"/>][hackthebox • profile]
-[<img align="left" alt="Wh1teP0ny | HackTheBox Academy" title="Wh1teP0ny | HackTheBox Academy"  width="26px" src="./__data/../__docs/icons/graduation-cap.svg"/>][hackthebox • academy • profile]
-[<img align="left" alt="Wh1teP0ny | TryHackMe" title="Wh1teP0ny | TryHackMe"  width="26px" src="./__data/../__docs/icons/TryHackMe.svg"/>][tryhackme • profile]
-[<img align="left" alt="Vladislav M. | LinkedIn" title="Vladislav M. | LinkedIn"  width="26px" src="./__data/../__docs/icons/LinkedIn.svg"/>][linkedin]
+[<img align="left" alt="Wh1teP0ny | HackTheBox" title="Wh1teP0ny | HackTheBox" width="26px" src="./__data/../__docs/icons/HackTheBox.svg"/>][hackthebox • profile]
+[<img align="left" alt="Wh1teP0ny | HackTheBox Academy" title="Wh1teP0ny | HackTheBox Academy" width="26px" src="./__data/../__docs/icons/graduation-cap.svg"/>][hackthebox • academy • profile]
+[<img align="left" alt="Wh1teP0ny | TryHackMe" title="Wh1teP0ny | TryHackMe" width="26px" src="./__data/../__docs/icons/TryHackMe.svg"/>][tryhackme • profile]
+[<img align="left" alt="Vladislav M. | LinkedIn" title="Vladislav M. | LinkedIn" width="26px" src="./__data/../__docs/icons/LinkedIn.svg"/>][linkedin]
+
 </br>
 </br>
+
+[<img align="left" alt="HackTheBox" title="Wh1teP0ny | HackTheBox" width="220px" src="https://www.hackthebox.eu/badge/image/381560">][hackthebox • profile]
+[<img align="left" alt="TryHackMe" title="Wh1teP0ny | TryHackMe" width="220px" src="https://tryhackme-badges.s3.amazonaws.com/Wh1teP0ny.png">][tryhackme • profile]
+
+</br>
+</br>
+
 └─────────────────────────────────•••
 
 ┌──┤ **Languages and Tools** ├─────────•••
