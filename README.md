@@ -25,38 +25,38 @@
 
 ┌──┤ **Where you can find more about me** ├─────────•••
 
-[<img align="left" target="_blank" alt="Wh1teP0ny | HackTheBox" width="26px" src="./__data/../__docs/icons/HackTheBox.svg"/>][hackthebox • profile]
-[<img align="left" target="_blank" alt="Wh1teP0ny | HackTheBox Academy" width="26px" src="./__data/../__docs/icons/graduation-cap.svg"/>][hackthebox • academy • profile]
-[<img align="left" target="_blank" alt="Wh1teP0ny | TryHackMe" width="26px" src="./__data/../__docs/icons/TryHackMe.svg"/>][tryhackme • profile]
-[<img align="left" target="_blank" alt="Vladislav M. | LinkedIn" width="26px" src="./__data/../__docs/icons/LinkedIn.svg"/>][linkedin]
+[<img align="left" alt="Wh1teP0ny | HackTheBox" title="Wh1teP0ny | HackTheBox"  width="26px" src="./__data/../__docs/icons/HackTheBox.svg"/>][hackthebox • profile]
+[<img align="left" alt="Wh1teP0ny | HackTheBox Academy" title="Wh1teP0ny | HackTheBox Academy"  width="26px" src="./__data/../__docs/icons/graduation-cap.svg"/>][hackthebox • academy • profile]
+[<img align="left" alt="Wh1teP0ny | TryHackMe" title="Wh1teP0ny | TryHackMe"  width="26px" src="./__data/../__docs/icons/TryHackMe.svg"/>][tryhackme • profile]
+[<img align="left" alt="Vladislav M. | LinkedIn" title="Vladislav M. | LinkedIn"  width="26px" src="./__data/../__docs/icons/LinkedIn.svg"/>][linkedin]
 </br>
 </br>
 └─────────────────────────────────•••
 
 ┌──┤ **Languages and Tools** ├─────────•••
 
-<!-- [<img align="left" target="_blank" alt="HackTheBox" width="26px" src="./__data/../__docs/icons/HackTheBox.svg"/>][mvladislav]
-[<img align="left" target="_blank" alt="TryHackMe" width="26px" src="./__data/../__docs/icons/TryHackMe.svg"/>][mvladislav]
-[<img align="left" target="_blank" alt="haveibeenpwned" width="26px" src="./__data/../__docs/icons/haveibeenpwned.svg"/>][mvladislav] -->
+<!-- [<img align="left" alt="HackTheBox" title="HackTheBox"  width="26px" src="./__data/../__docs/icons/HackTheBox.svg"/>][mvladislav]
+[<img align="left" alt="TryHackMe" title="TryHackMe"  width="26px" src="./__data/../__docs/icons/TryHackMe.svg"/>][mvladislav]
+[<img align="left" alt="haveibeenpwned" title="haveibeenpwned"  width="26px" src="./__data/../__docs/icons/haveibeenpwned.svg"/>][mvladislav] -->
 
-[<img align="left" target="_blank" alt="VisualStudioCode" width="26px" src="./__data/../__docs/icons/VisualStudioCode.svg"/>][mvladislav]
-[<img align="left" target="_blank" alt="Git" width="26px" src="./__data/../__docs/icons/Git.svg"/>][mvladislav]
-[<img align="left" target="_blank" alt="Markdown" width="26px" src="./__data/../__docs/icons/Markdown.svg"/>][mvladislav]
-[<img align="left" target="_blank" alt="python" width="26px" src="./__data/../__docs/icons/python.svg"/>][mvladislav]
-[<img align="left" target="_blank" alt="ngrok" width="26px" src="./__data/../__docs/icons/ngrok.svg"/>][mvladislav]
-[<img align="left" target="_blank" alt="OWASP" width="26px" src="./__data/../__docs/icons/OWASP.svg"/>][mvladislav]
-[<img align="left" target="_blank" alt="Snyk" width="26px" src="./__data/../__docs/icons/Snyk.svg"/>][mvladislav]
+[<img align="left" alt="VisualStudioCode" title="VisualStudioCode"  width="26px" src="./__data/../__docs/icons/VisualStudioCode.svg"/>][mvladislav]
+[<img align="left" alt="Git" title="Git"  width="26px" src="./__data/../__docs/icons/Git.svg"/>][mvladislav]
+[<img align="left" alt="Markdown" title="Markdown"  width="26px" src="./__data/../__docs/icons/Markdown.svg"/>][mvladislav]
+[<img align="left" alt="python" title="python"  width="26px" src="./__data/../__docs/icons/python.svg"/>][mvladislav]
+[<img align="left" alt="ngrok" title="ngrok"  width="26px" src="./__data/../__docs/icons/ngrok.svg"/>][mvladislav]
+[<img align="left" alt="OWASP" title="OWASP"  width="26px" src="./__data/../__docs/icons/OWASP.svg"/>][mvladislav]
+[<img align="left" alt="Snyk" title="Snyk"  width="26px" src="./__data/../__docs/icons/Snyk.svg"/>][mvladislav]
 
-[<img align="left" target="_blank" alt="Linux" width="26px" src="./__data/../__docs/icons/Linux.svg"/>][mvladislav]
-[<img align="left" target="_blank" alt="Ubuntu" width="26px" src="./__data/../__docs/icons/Ubuntu.svg"/>][mvladislav]
-[<img align="left" target="_blank" alt="Proxmox" width="26px" src="./__data/../__docs/icons/Proxmox.svg"/>][mvladislav]
-[<img align="left" target="_blank" alt="Ansible" width="26px" src="./__data/../__docs/icons/Ansible.svg"/>][mvladislav]
-[<img align="left" target="_blank" alt="docker" width="26px" src="./__data/../__docs/icons/docker.svg"/>][mvladislav]
-[<img align="left" target="_blank" alt="tmux" width="26px" src="./__data/../__docs/icons/tmux.svg"/>][mvladislav]
+[<img align="left" alt="Linux" title="Linux"  width="26px" src="./__data/../__docs/icons/Linux.svg"/>][mvladislav]
+[<img align="left" alt="Ubuntu" title="Ubuntu"  width="26px" src="./__data/../__docs/icons/Ubuntu.svg"/>][mvladislav]
+[<img align="left" alt="Proxmox" title="Proxmox"  width="26px" src="./__data/../__docs/icons/Proxmox.svg"/>][mvladislav]
+[<img align="left" alt="Ansible" title="Ansible"  width="26px" src="./__data/../__docs/icons/Ansible.svg"/>][mvladislav]
+[<img align="left" alt="docker" title="docker"  width="26px" src="./__data/../__docs/icons/docker.svg"/>][mvladislav]
+[<img align="left" alt="tmux" title="tmux"  width="26px" src="./__data/../__docs/icons/tmux.svg"/>][mvladislav]
 
-[<img align="left" target="_blank" alt="Inkscape" width="26px" src="./__data/../__docs/icons/Inkscape.svg"/>][mvladislav]
-[<img align="left" target="_blank" alt="OpenVPN" width="26px" src="./__data/../__docs/icons/OpenVPN.svg"/>][mvladislav]
-[<img align="left" target="_blank" alt="NordVPN" width="26px" src="./__data/../__docs/icons/NordVPN.svg"/>][mvladislav]
+[<img align="left" alt="Inkscape" title="Inkscape"  width="26px" src="./__data/../__docs/icons/Inkscape.svg"/>][mvladislav]
+[<img align="left" alt="OpenVPN" title="OpenVPN"  width="26px" src="./__data/../__docs/icons/OpenVPN.svg"/>][mvladislav]
+[<img align="left" alt="NordVPN" title="NordVPN"  width="26px" src="./__data/../__docs/icons/NordVPN.svg"/>][mvladislav]
 
 </br>
 </br>
