@@ -49,8 +49,7 @@
 
 [<img align="left" alt="VisualStudioCode" title="VisualStudioCode" width="26px" src="./__data/../__docs/icons/VisualStudioCode.svg"/>][mvladislav]
 [<img align="left" alt="Git" title="Git"  width="26px" src="./__data/../__docs/icons/Git.svg"/>][mvladislav]
-[<img align="left" alt="Markdown" title="Markdown" width="26px" src="./__data/../__docs/icons/Markdown.svg"/>][mvladislav]
-[<img align="left" alt="python" title="python" width="26px" src="./__data/../__docs/icons/python.svg"/>][mvladislav]
+[<img align="left" alt="Markdown" title="Markdown" width="26px" src="./__data/../__docs/languages/Markdown.svg"/>][mvladislav]
 [<img align="left" alt="ngrok" title="ngrok" width="26px" src="./__data/../__docs/icons/ngrok.svg"/>][mvladislav]
 [<img align="left" alt="OWASP" title="OWASP" width="26px" src="./__data/../__docs/icons/OWASP.svg"/>][mvladislav]
 [<img align="left" alt="Snyk" title="Snyk" width="26px" src="./__data/../__docs/icons/Snyk.svg"/>][mvladislav]
@@ -65,6 +64,33 @@
 [<img align="left" alt="Inkscape" title="Inkscape" width="26px" src="./__data/../__docs/icons/Inkscape.svg"/>][mvladislav]
 [<img align="left" alt="OpenVPN" title="OpenVPN" width="26px" src="./__data/../__docs/icons/OpenVPN.svg"/>][mvladislav]
 [<img align="left" alt="NordVPN" title="NordVPN" width="26px" src="./__data/../__docs/icons/NordVPN.svg"/>][mvladislav]
+
+</br>
+</br>
+
+[<img align="left" alt="python" title="python" width="26px" src="./__data/../__docs/languages/python.svg"/>][mvladislav]
+[<img align="left" alt="C++" title="C++" width="26px" src="./__data/../__docs/languages/C++.svg"/>][mvladislav]
+[<img align="left" alt="Java" title="Java" width="26px" src="./__data/../__docs/languages/Java.svg"/>][mvladislav]
+
+</br>
+</br>
+
+[<img align="left" alt="CSS3" title="CSS3" width="26px" src="./__data/../__docs/languages/CSS3.svg"/>][mvladislav]
+[<img align="left" alt="HTML5" title="HTML5" width="26px" src="./__data/../__docs/languages/HTML5.svg"/>][mvladislav]
+[<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="./__data/../__docs/languages/JavaScript.svg"/>][mvladislav]
+[<img align="left" alt="TypeScript" title="TypeScript" width="26px" src="./__data/../__docs/languages/TypeScript.svg"/>][mvladislav]
+[<img align="left" alt="Node.js" title="Node.js" width="26px" src="./__data/../__docs/languages/Node.js.svg"/>][mvladislav]
+[<img align="left" alt="npm" title="npm" width="26px" src="./__data/../__docs/languages/npm.svg"/>][mvladislav]
+[<img align="left" alt="Angular" title="Angular" width="26px" src="./__data/../__docs/languages/Angular.svg"/>][mvladislav]
+[<img align="left" alt="TYPO3" title="TYPO3" width="26px" src="./__data/../__docs/languages/TYPO3.svg"/>][mvladislav]
+
+</br>
+</br>
+
+[<img align="left" alt="MongoDB" title="MongoDB" width="26px" src="./__data/../__docs/languages/MongoDB.svg"/>][mvladislav]
+[<img align="left" alt="SQLite" title="SQLite" width="26px" src="./__data/../__docs/languages/SQLite.svg"/>][mvladislav]
+[<img align="left" alt="MySQL" title="MySQL" width="26px" src="./__data/../__docs/languages/MySQL.svg"/>][mvladislav]
+[<img align="left" alt="Oracle" title="Oracle" width="26px" src="./__data/../__docs/languages/Oracle.svg"/>][mvladislav]
 
 </br>
 </br>
