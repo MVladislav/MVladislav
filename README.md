@@ -111,6 +111,7 @@
 
 [![vm-clockify](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=vm-clockify&theme=tokyonight)](https://github.com/MVladislav/vm-clockify)
 [![vm-docker-collection](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=vm-docker-collection&theme=tokyonight)](https://github.com/MVladislav/vm-docker-collection)
+[![docker-elastic](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=docker-elastic&theme=tokyonight)](https://github.com/MVladislav/docker-elastic)
 
 └──────────────────────•••
 
