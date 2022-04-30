@@ -56,14 +56,23 @@
 
 [<img align="left" alt="Linux" title="Linux" width="26px" src="./__data/../__docs/icons/Linux.svg"/>][mvladislav]
 [<img align="left" alt="Ubuntu" title="Ubuntu" width="26px" src="./__data/../__docs/icons/Ubuntu.svg"/>][mvladislav]
-[<img align="left" alt="Proxmox" title="Proxmox" width="26px" src="./__data/../__docs/icons/Proxmox.svg"/>][mvladislav]
-[<img align="left" alt="Ansible" title="Ansible" width="26px" src="./__data/../__docs/icons/Ansible.svg"/>][mvladislav]
-[<img align="left" alt="docker" title="docker" width="26px" src="./__data/../__docs/icons/docker.svg"/>][mvladislav]
 [<img align="left" alt="tmux" title="tmux" width="26px" src="./__data/../__docs/icons/tmux.svg"/>][mvladislav]
 
 [<img align="left" alt="Inkscape" title="Inkscape" width="26px" src="./__data/../__docs/icons/Inkscape.svg"/>][mvladislav]
 [<img align="left" alt="OpenVPN" title="OpenVPN" width="26px" src="./__data/../__docs/icons/OpenVPN.svg"/>][mvladislav]
 [<img align="left" alt="NordVPN" title="NordVPN" width="26px" src="./__data/../__docs/icons/NordVPN.svg"/>][mvladislav]
+
+[<img align="left" alt="elastic" title="elastic" width="26px" src="./__data/../__docs/icons/elastic.svg"/>][mvladislav]
+[<img align="left" alt="elasticsearch" title="elasticsearch" width="26px" src="./__data/../__docs/icons/elasticsearch.svg"/>][mvladislav]
+
+</br>
+</br>
+
+[<img align="left" alt="Proxmox" title="Proxmox" width="26px" src="./__data/../__docs/icons/Proxmox.svg"/>][mvladislav]
+[<img align="left" alt="docker" title="docker" width="26px" src="./__data/../__docs/icons/docker.svg"/>][mvladislav]
+[<img align="left" alt="kubernetes" title="kubernetes" width="26px" src="./__data/../__docs/icons/kubernetes.svg"/>][mvladislav]
+[<img align="left" alt="Ansible" title="Ansible" width="26px" src="./__data/../__docs/icons/Ansible.svg"/>][mvladislav]
+[<img align="left" alt="terraform" title="terraform" width="26px" src="./__data/../__docs/icons/terraform.svg"/>][mvladislav]
 
 </br>
 </br>
@@ -91,6 +100,12 @@
 [<img align="left" alt="SQLite" title="SQLite" width="26px" src="./__data/../__docs/languages/SQLite.svg"/>][mvladislav]
 [<img align="left" alt="MySQL" title="MySQL" width="26px" src="./__data/../__docs/languages/MySQL.svg"/>][mvladislav]
 [<img align="left" alt="Oracle" title="Oracle" width="26px" src="./__data/../__docs/languages/Oracle.svg"/>][mvladislav]
+
+</br>
+</br>
+
+[<img align="left" alt="homeassistant" title="homeassistant" width="26px" src="./__data/../__docs/icons/homeassistant.svg"/>][mvladislav]
+[<img align="left" alt="ubiquiti" title="ubiquiti" width="26px" src="./__data/../__docs/icons/ubiquiti.svg"/>][mvladislav]
 
 </br>
 </br>
