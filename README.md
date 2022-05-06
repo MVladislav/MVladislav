@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Vladik • aka Wh1teP0ny
+### **Hi there 👋**
 
 ```sh
     __  ____    ____          ___      __
@@ -8,7 +8,7 @@
 /_/  /_/  |___/_/\__,_/\__,_/_/____/_/\__,_/ |___/
 **************** 4D 56 6C 61 64 69 73 6C 61 76 *****************
 ****************************************************************
-* Copyright of MVladislav, 2021                                *
+* Copyright of MVladislav aka Wh1teP0ny, 2022                  *
 * https://mvladislav.online                                    *
 * https://github.com/MVladislav                                *
 ****************************************************************
@@ -16,7 +16,7 @@
 ****************************************************************
 ```
 
-## I'm a **☕** lover • IT-Securiant • Pen-Tester • Developer • ... • with ❤️ to Technology
+## With **❤️** to **☕** • IT👽Securiant • Pen😈Tester • Developer • ... • with **❤️** to Technology
 
 - 🔭 I’m currently working on some smaller project to self learn
 - 🌱 I’m currently learning eeeverything 🤪
@@ -124,9 +124,10 @@
 
 ┌──┤ **Pinned 2.0** ├─────────•••
 
-[![vm-clockify](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=vm-clockify&theme=tokyonight)](https://github.com/MVladislav/vm-clockify)
 [![vm-docker-collection](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=vm-docker-collection&theme=tokyonight)](https://github.com/MVladislav/vm-docker-collection)
+[![vm-terraform-collection](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=vm-terraform-collection&theme=tokyonight)](https://github.com/MVladislav/vm-terraform-collection)
 [![docker-elastic](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=docker-elastic&theme=tokyonight)](https://github.com/MVladislav/docker-elastic)
+[![vm-clockify](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=vm-clockify&theme=tokyonight)](https://github.com/MVladislav/vm-clockify)
 
 └──────────────────────•••
 
