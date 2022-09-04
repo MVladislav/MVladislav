@@ -122,11 +122,28 @@
 
 └──────────────────────•••
 
-┌──┤ **Pinned 2.0** ├─────────•••
+┌──┤ **Pinned - docker** ├─────────•••
 
 [![vm-docker-collection](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=vm-docker-collection&theme=tokyonight)](https://github.com/MVladislav/vm-docker-collection)
-[![vm-terraform-collection](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=vm-terraform-collection&theme=tokyonight)](https://github.com/MVladislav/vm-terraform-collection)
 [![docker-elastic](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=docker-elastic&theme=tokyonight)](https://github.com/MVladislav/docker-elastic)
+
+└──────────────────────•••
+
+┌──┤ **Pinned - kubernetes** ├─────────•••
+
+[![vm-terraform-collection](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=vm-terraform-collection&theme=tokyonight)](https://github.com/MVladislav/vm-terraform-collection)
+[![checkmk_kube_agent](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=checkmk_kube_agent&theme=tokyonight)](https://github.com/MVladislav/checkmk_kube_agent)
+
+└──────────────────────•••
+
+┌──┤ **Pinned - 2.0** ├─────────•••
+
+[![ansible-env-setup](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-env-setup&theme=tokyonight)](https://github.com/MVladislav/ansible-env-setup)
+[![vm-recon](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=vm-recon&theme=tokyonight)](https://github.com/MVladislav/vm-recon)
+[![ansible-install-server](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-install-server&theme=tokyonight)](https://github.com/MVladislav/ansible-install-server)
+[![ansible-install-client](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-install-client&theme=tokyonight)](https://github.com/MVladislav/ansible-install-client)
+[![ansible-kubernetes](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-kubernetes&theme=tokyonight)](https://github.com/MVladislav/ansible-kubernetes)
+[![ansible-docker](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-docker&theme=tokyonight)](https://github.com/MVladislav/ansible-docker)
 [![vm-clockify](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=vm-clockify&theme=tokyonight)](https://github.com/MVladislav/vm-clockify)
 
 └──────────────────────•••
