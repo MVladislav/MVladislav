@@ -29,6 +29,7 @@
 [<img align="left" alt="Wh1teP0ny | HackTheBox Academy" title="Wh1teP0ny | HackTheBox Academy" width="26px" src="./__data/../__docs/icons/graduation-cap.svg"/>][hackthebox • academy • profile]
 [<img align="left" alt="Wh1teP0ny | TryHackMe" title="Wh1teP0ny | TryHackMe" width="26px" src="./__data/../__docs/icons/TryHackMe.svg"/>][tryhackme • profile]
 [<img align="left" alt="Vladislav M. | LinkedIn" title="Vladislav M. | LinkedIn" width="26px" src="./__data/../__docs/icons/LinkedIn.svg"/>][linkedin]
+[<img align="left" alt="Vladislav M. | Kit" title="Vladislav M. | Kit" width="26px" src="./__data/../__docs/icons/kit.svg"/>][kit]
 
 </br>
 </br>
@@ -157,6 +158,7 @@
 [hackthebox • academy • profile]: https://academy.hackthebox.com/dashboard
 [tryhackme • profile]: https://tryhackme.com/p/Wh1teP0ny
 [linkedin]: https://www.linkedin.com/in/vladislav-masepohl
+[kit]: https://kit.co/MVladislav
 
 <!--
 **MVladislav/MVladislav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
