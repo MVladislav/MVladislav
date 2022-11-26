@@ -124,17 +124,11 @@
 
 └──────────────────────•••
 
-┌──┤ **Pinned - docker** ├─────────•••
+┌──┤ **Pinned - docker|kubernetes** ├─────────•••
 
 [![vm-docker-collection](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=vm-docker-collection&theme=tokyonight)](https://github.com/MVladislav/vm-docker-collection)
 [![docker-elastic](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=docker-elastic&theme=tokyonight)](https://github.com/MVladislav/docker-elastic)
-
-└──────────────────────•••
-
-┌──┤ **Pinned - kubernetes** ├─────────•••
-
 [![vm-terraform-collection](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=vm-terraform-collection&theme=tokyonight)](https://github.com/MVladislav/vm-terraform-collection)
-[![checkmk_kube_agent](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=checkmk_kube_agent&theme=tokyonight)](https://github.com/MVladislav/checkmk_kube_agent)
 
 └──────────────────────•••
 
