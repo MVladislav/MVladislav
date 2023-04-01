@@ -58,11 +58,20 @@
 
 [<img align="left" alt="Linux" title="Linux" width="26px" src="./__docs/icons/Linux.svg"/>][mvladislav]
 [<img align="left" alt="Ubuntu" title="Ubuntu" width="26px" src="./__docs/icons/Ubuntu.svg"/>][mvladislav]
+[<img align="left" alt="GnuBash" title="GnuBash" width="26px" src="./__docs/icons/gnubash.svg"/>][mvladislav]
 [<img align="left" alt="tmux" title="tmux" width="26px" src="./__docs/icons/tmux.svg"/>][mvladislav]
+[<img align="left" alt="WireShark" title="WireShark" width="26px" src="./__docs/icons/wireshark.svg"/>][mvladislav]
+
+[<img align="left" alt="Thunderbird" title="Thunderbird" width="26px" src="./__docs/icons/thunderbird.svg"/>][mvladislav]
+
+<!-- [<img align="left" alt="Logseq" title="Logseq" width="26px" src="./__docs/icons/logseq.svg"/>][mvladislav] -->
 
 [<img align="left" alt="Inkscape" title="Inkscape" width="26px" src="./__docs/icons/Inkscape.svg"/>][mvladislav]
+
+<!-- [<img align="left" alt="DrawIO" title="DrawIO" width="26px" src="./__docs/icons/drawio.svg"/>][mvladislav] -->
+
 [<img align="left" alt="OpenVPN" title="OpenVPN" width="26px" src="./__docs/icons/OpenVPN.svg"/>][mvladislav]
-[<img align="left" alt="NordVPN" title="NordVPN" width="26px" src="./__docs/icons/NordVPN.svg"/>][mvladislav]
+[<img align="left" alt="Wireguard" title="Wireguard" width="26px" src="./__docs/icons/wireguard.svg"/>][mvladislav]
 
 [<img align="left" alt="elastic" title="elastic" width="26px" src="./__docs/icons/elastic.svg"/>][mvladislav]
 [<img align="left" alt="elasticsearch" title="elasticsearch" width="26px" src="./__docs/icons/elasticsearch.svg"/>][mvladislav]
@@ -100,7 +109,7 @@
 
 [<img align="left" alt="MongoDB" title="MongoDB" width="26px" src="./__docs/languages/MongoDB.svg"/>][mvladislav]
 [<img align="left" alt="SQLite" title="SQLite" width="26px" src="./__docs/languages/SQLite.svg"/>][mvladislav]
-[<img align="left" alt="MySQL" title="MySQL" width="26px" src="./__docs/languages/MySQL.svg"/>][mvladislav]
+[<img align="left" alt="MariaDB" title="MariaDB" width="26px" src="./__docs/languages/mariadb.svg"/>][mvladislav]
 [<img align="left" alt="Oracle" title="Oracle" width="26px" src="./__docs/languages/Oracle.svg"/>][mvladislav]
 
 </br>
