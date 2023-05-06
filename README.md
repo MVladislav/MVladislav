@@ -144,11 +144,15 @@
 ┌──┤ **Pinned - 2.0** ├─────────•••
 
 [![ansible-env-setup](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-env-setup&theme=tokyonight)](https://github.com/MVladislav/ansible-env-setup)
-[![vm-recon](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=vm-recon&theme=tokyonight)](https://github.com/MVladislav/vm-recon)
+[![ansible-cis-ubuntu-2204](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-cis-ubuntu-2204&theme=tokyonight)](https://github.com/MVladislav/ansible-cis-ubuntu-2204)
 [![ansible-install-server](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-install-server&theme=tokyonight)](https://github.com/MVladislav/ansible-install-server)
 [![ansible-install-client](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-install-client&theme=tokyonight)](https://github.com/MVladislav/ansible-install-client)
-[![ansible-kubernetes](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-kubernetes&theme=tokyonight)](https://github.com/MVladislav/ansible-kubernetes)
 [![ansible-docker](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-docker&theme=tokyonight)](https://github.com/MVladislav/ansible-docker)
+[![ansible-kubernetes](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-kubernetes&theme=tokyonight)](https://github.com/MVladislav/ansible-kubernetes)
+[![ansible-updater](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-updater&theme=tokyonight)](https://github.com/MVladislav/ansible-updater)
+[![ansible-security](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-security&theme=tokyonight)](https://github.com/MVladislav/ansible-security)
+[![ansible-ssh](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-ssh&theme=tokyonight)](https://github.com/MVladislav/ansible-ssh)
+[![ansible-netplan](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-netplan&theme=tokyonight)](https://github.com/MVladislav/ansible-netplan)
 [![vm-clockify](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=vm-clockify&theme=tokyonight)](https://github.com/MVladislav/vm-clockify)
 
 └──────────────────────•••
