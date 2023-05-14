@@ -127,9 +127,10 @@
 
 ┌──┤ **Some Stats** ├─────────•••
 
-[![mvladislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvladislav&count_private=true&show_icons=true&theme=tokyonight)][mvladislav]
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mvladislav&count_private=true&show_icons=true&theme=tokyonight)][mvladislav]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mvladislav&theme=dark&count_private=true&theme=tokyonight)][mvladislav]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvladislav&count_private=true&theme=tokyonight&layout=compact)][mvladislav]
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvladislav&count_private=true&theme=tokyonight&layout=compact)][mvladislav] -->
 
 └──────────────────────•••
 
