@@ -8,7 +8,7 @@
 /_/  /_/  |___/_/\__,_/\__,_/_/____/_/\__,_/ |___/
 **************** 4D 56 6C 61 64 69 73 6C 61 76 *****************
 ****************************************************************
-* Copyright of MVladislav aka Wh1teP0ny, 2022                  *
+* Copyright of MVladislav aka Wh1teP0ny, 2023                  *
 * https://mvladislav.online                                    *
 * https://github.com/MVladislav                                *
 ****************************************************************
@@ -18,7 +18,7 @@
 
 ## With **❤️** to **☕** • IT👽Securiant • Pen😈Tester • Developer • ... • with **❤️** to Technology
 
-- 🔭 I’m currently working on some smaller project to self learn
+- 🔭 I’m currently working on some smaller projects for self-learning
 - 🌱 I’m currently learning eeeverything 🤪
 - 🧑‍🎓 2022 Goals • Learn more and deeper in Prevention Methods
 - ⚡ Fun fact: iwashere
@@ -134,7 +134,7 @@
 
 └──────────────────────•••
 
-┌──┤ **Pinned - docker|kubernetes** ├─────────•••
+┌──┤ **Pinned - docker/kubernetes** ├─────────•••
 
 [![vm-docker-collection](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=vm-docker-collection&theme=tokyonight)](https://github.com/MVladislav/vm-docker-collection)
 [![docker-elastic](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=docker-elastic&theme=tokyonight)](https://github.com/MVladislav/docker-elastic)
@@ -155,6 +155,12 @@
 [![ansible-ssh](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-ssh&theme=tokyonight)](https://github.com/MVladislav/ansible-ssh)
 [![ansible-netplan](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-netplan&theme=tokyonight)](https://github.com/MVladislav/ansible-netplan)
 [![vm-clockify](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=vm-clockify&theme=tokyonight)](https://github.com/MVladislav/vm-clockify)
+
+└──────────────────────•••
+
+┌──┤ **🏆 GitHub Trophies** ├─────────•••
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mvladislav&no-frame=true&no-bg=true&theme=tokyonight&column=9)](https://github.com/mvladislav/github-profile-trophy)
 
 └──────────────────────•••
 
