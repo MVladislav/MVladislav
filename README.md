@@ -8,20 +8,22 @@
 /_/  /_/  |___/_/\__,_/\__,_/_/____/_/\__,_/ |___/
 **************** 4D 56 6C 61 64 69 73 6C 61 76 *****************
 ****************************************************************
-* Copyright of MVladislav aka Wh1teP0ny, 2023                  *
+* Copyright of MVladislav aka Wh1teP0ny, 2024                  *
 * https://mvladislav.online                                    *
 * https://github.com/MVladislav                                *
 ****************************************************************
-* nice to see you here                                         *
+* nice to see you here ⌨ 🖱                                     *
 ****************************************************************
 ```
 
-## With **❤️** to **☕** • IT👽Securiant • Pen😈Tester • Developer • ... • with **❤️** to Technology
+## **☕** • IT👽Securiant • Pen😈Tester • Developer • Tech **❤️** Enthusiast • **☕**
 
-- 🔭 I’m currently working on some smaller projects for self-learning
-- 🌱 I’m currently learning eeeverything 🤪
-- 🧑‍🎓 2022 Goals • Learn more and deeper in Prevention Methods
-- ⚡ Fun fact: iwashere
+- 🔭 Currently diving into smaller projects for self-growth and new skills
+- 🌱 Always learning… everything! 🤪
+- 🧑‍🎓 2024 Goals • Deepen skills in prevention techniques and beyond
+- ⚡ Fun fact: *iwashere*
+- 🐞 Embrace the dark, bugs love light
+
 
 ┌──┤ **Where you can find more about me** ├─────────•••
 
@@ -134,18 +136,20 @@
 
 └──────────────────────•••
 
-┌──┤ **Pinned - docker/kubernetes** ├─────────•••
+┌──┤ **Pinned - 1.0** ├─────────•••
 
 [![vm-docker-collection](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=vm-docker-collection&theme=tokyonight)](https://github.com/MVladislav/vm-docker-collection)
-[![docker-elastic](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=docker-elastic&theme=tokyonight)](https://github.com/MVladislav/docker-elastic)
-[![vm-terraform-collection](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=vm-terraform-collection&theme=tokyonight)](https://github.com/MVladislav/vm-terraform-collection)
+[![SCA](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=sca&theme=tokyonight)](https://github.com/MVladislav/sca)
+<!--[![docker-elastic](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=docker-elastic&theme=tokyonight)](https://github.com/MVladislav/docker-elastic) -->
+<!--[![vm-terraform-collection](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=vm-terraform-collection&theme=tokyonight)](https://github.com/MVladislav/vm-terraform-collection) -->
 
 └──────────────────────•••
 
 ┌──┤ **Pinned - 2.0** ├─────────•••
 
-[![ansible-env-setup](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-env-setup&theme=tokyonight)](https://github.com/MVladislav/ansible-env-setup)
+[![ansible-cis-ubuntu-2404](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-cis-ubuntu-2404&theme=tokyonight)](https://github.com/MVladislav/ansible-cis-ubuntu-2404)
 [![ansible-cis-ubuntu-2204](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-cis-ubuntu-2204&theme=tokyonight)](https://github.com/MVladislav/ansible-cis-ubuntu-2204)
+[![ansible-env-setup](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-env-setup&theme=tokyonight)](https://github.com/MVladislav/ansible-env-setup)
 [![ansible-install-server](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-install-server&theme=tokyonight)](https://github.com/MVladislav/ansible-install-server)
 [![ansible-install-client](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-install-client&theme=tokyonight)](https://github.com/MVladislav/ansible-install-client)
 [![ansible-docker](https://github-readme-stats.vercel.app/api/pin/?username=mvladislav&repo=ansible-docker&theme=tokyonight)](https://github.com/MVladislav/ansible-docker)
